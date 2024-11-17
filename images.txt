@@ -1,2 +1,3 @@
-jupyter/base-notebook
-jupyter/datascience-notebook
+mysql:5.7
+redis:5.0
+zookeeper:3.7
