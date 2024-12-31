@@ -1,1 +1,2 @@
-nginx:1.27.2
+opensips/opensips:sipssert-3.4
+opensips/opensips:3.4
