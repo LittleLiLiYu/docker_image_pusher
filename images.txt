@@ -1,2 +1,1 @@
-opensips/opensips:sipssert-3.4
-opensips/opensips:3.4
+opensips/opensips-cp:9.3.4
