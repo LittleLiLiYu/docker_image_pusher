@@ -1,1 +1,8 @@
-gitea/gitea:1.21.1
+prom/prometheus:latest
+prom/alertmanager:latest
+prom/node-exporter:latest
+grafana/grafana:master
+grafana/loki
+sipcapture/heplify-server
+sipcapture/webapp
+postgres:11-alpine
