@@ -1,2 +1,1 @@
-bellsoft/liberica-openjdk-alpine:17
-bellsoft/liberica-openjdk-alpine:8
+redis:6.2.7
