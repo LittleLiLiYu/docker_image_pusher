@@ -1,8 +1,2 @@
-prom/prometheus:latest
-prom/alertmanager:latest
-prom/node-exporter:latest
-grafana/grafana:master
-grafana/loki
-sipcapture/heplify-server
-sipcapture/webapp
-postgres:11-alpine
+bellsoft/liberica-openjdk-alpine:17
+bellsoft/liberica-openjdk-alpine:8
