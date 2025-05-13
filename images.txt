@@ -1,1 +1,8 @@
-redis:6.2.7
+postgres:11-alpine
+sipcapture/webapp:latest
+sipcapture/heplify-server:latest
+grafana/loki:latest
+grafana/grafana:master
+prom/node-exporter:latest
+prom/alertmanager:latest
+prom/prometheus:latest
