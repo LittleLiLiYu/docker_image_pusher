@@ -1,8 +1,1 @@
-postgres:11-alpine
-sipcapture/webapp:latest
-sipcapture/heplify-server:latest
-grafana/loki:latest
-grafana/grafana:master
-prom/node-exporter:latest
-prom/alertmanager:latest
-prom/prometheus:latest
+apache/rocketmq:5.3.2
