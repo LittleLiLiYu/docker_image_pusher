@@ -1,1 +1,1 @@
-java:8u111-jdk-alpine
+openjdk:8u201-jdk-alpine
