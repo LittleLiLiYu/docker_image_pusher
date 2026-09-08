@@ -1,1 +1,1 @@
-mikolatero/vlmcsd
+duolabmeng666/paddlehub_ppocr:1.2
